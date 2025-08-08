@@ -1,4 +1,3 @@
-# Mental_Health_Support_Bot
 # 🧠 Mental Health Support Bot
 
 Meet your compassionate AI companion! This multi-agent mental wellness assistant, crafted with **CrewAI**, **OpenAI API**, and **Streamlit**, is designed to genuinely understand your mood, offer heartfelt support, and suggest personalized self-care ideas, all in a deeply empathetic way.
