@@ -17,7 +17,7 @@ Smart & Seamless Interaction: Behind the scenes, a clever AI team (CrewAI & Lang
 
 Effortless to Use: Its beautiful Streamlit interface makes chatting with your bot simple and straightforward. ✨
 
-Your Privacy Matters: Rest assured, your important API keys are handled securely. 🔒
+
 ---
 
 
